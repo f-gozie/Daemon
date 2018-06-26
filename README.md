@@ -1,5 +1,6 @@
 # Daemon
 Basic Android Application
+Still in development
 
 # Project Due Date:
-30th August 2018
+To be decided
